@@ -125,8 +125,9 @@ img {
    padding-left: 10px;
 }
 img.people {
-   border-radius: 25px;
+   border-radius: 50px;
    vertical-align: middle;
+   padding: 5px;
    
    
 }
