@@ -32,6 +32,11 @@ li {
 li:hover{
    background-color: #e5e5e7;
 }
+.zagolovok:hover {
+   background-color: #f2f2f2;
+   
+	
+}
 a {
    text-decoration: none;
    color: #c2c2c2;
