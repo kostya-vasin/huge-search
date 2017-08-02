@@ -29,6 +29,9 @@ li {
    margin-bottom: 5px;
    
 }
+li:hover{
+   background-color: #e5e5e7;
+}
 a {
    text-decoration: none;
    color: #c2c2c2;
